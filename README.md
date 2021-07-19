@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Björn Tryggve Eyser.
+- 👋 Hi, my name is Björn **Tryggve** Eyser.
 - 👀 I’m interested in Software Development and (Home/-lab) Networking.
 - 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on ...
